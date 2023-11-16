@@ -19,7 +19,7 @@ After that, you need to go to the `LibraryDemo` class and run it. It will **test
 
 ## Task Execution Guide:
 
-Your main task is to implement the `Library` class, specifically its methods. Firstly, you need to create a list of `books`, which will be your library.
+Your main task is to implement the `Library` class, specifically its methods. Firstly, you need to create a list of `books`, which will be your library. Make sure you made this list `public`, it's important!
 
 - Start with the simplest method – the method to add a book to the library. Here, you simply need to use the `add()` method on the list you created earlier.
 
