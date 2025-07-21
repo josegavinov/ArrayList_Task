@@ -19,7 +19,7 @@ public class LibraryDemo {
         library.displayAllBooks();
 
         System.out.println("\nBooks by author 'Joshua Bloch':");
-        List<Book> booksByAuthor = library.findBooksByAuthor("Joshua Bloch");
+        List<Book> booksByAuthor = library.findBooksByAuthor("Herbert Schildt");
         for (Book book : booksByAuthor) {
             System.out.println(book);
         }
